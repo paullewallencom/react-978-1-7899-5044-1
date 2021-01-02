@@ -1,0 +1,12 @@
+{
+  "name": "React Router - Redirects (Auth)",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
